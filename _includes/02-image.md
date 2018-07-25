@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Fady Kuzman in Seville, Placa d'Esapanya](_includes/Fady_seville.jpg)
